@@ -30,20 +30,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cgannaway/cg.net.git"
+    "url": "git+"
   },
   "keywords": [
-    "Poker",
-    "Chips",
-    "Poker",
-    "Chips",
-    "SPA",
-    "WebApp"
+    
   ],
-  "author": "Connor Gannaway",
+  "author": "",
   "license": "GPLv3",
   "bugs": {
-    "url": "https://github.com/cgannaway/cg.net/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/cgannaway/cg.net#readme"
+  "homepage": ""
 }
