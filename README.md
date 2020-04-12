@@ -1,7 +1,6 @@
-# Website Development Environment Template
+# Website Development Template
 
 ---------------------------
+Based on NodeJS and the Gulp toolkit
 
-Must have NPM and git installed
-
-Clone this site and run the bat file
+Have NodeJS and NPM installed, then run `npm install` to install packages and `gulp` to build.
